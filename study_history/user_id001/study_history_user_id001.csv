@@ -1,10 +1,10 @@
 ,0,1
 0,date,2022/05/14 22:16:10
-1,2.1 Contingency tables and scatterplots (7min)（分割表と散布図）,
-2,2.2 Pearson's r (7min)（ピアソンの相関係数 r）,
-3,2.3 Finding the regression line (3min)（回帰直線を見出す）,
-4,2.4 Describing the regression line (7min)（回帰直線の記述）,
-5,2.5 How well does the regression line fit (6min)（回帰直線のフィット）,
+1,2.1 Contingency tables and scatterplots (7min)（分割表と散布図）,nan
+2,2.2 Pearson's r (7min)（ピアソンの相関係数 r）,nan
+3,2.3 Finding the regression line (3min)（回帰直線を見出す）,nan
+4,2.4 Describing the regression line (7min)（回帰直線の記述）,nan
+5,2.5 How well does the regression line fit (6min)（回帰直線のフィット）,nan
 6,2.6 Correlation is not causation (5min)（相関は因果ではない）,相関関係と因果関係の違いについての授業内容だった。動画の 02:13 で太るのはチョコレートだけでなく生物学やほかの食べ物などの理由があるためである。また、外れ値が分析結果に強い影響を与える可能性があることが分かった。
 7,2.7 Example contingency table (3min)（分割表の例）,分割表の関係があるかどうかを調べるには、関連する%を計算する必要がある。01:39 のように一つのセルにある数に対してその列の合計で割る計算で関係を調べる方法を学ぶことができた。
 8,2.8 Example Pearson's r and regression (8min)（ピアソンの r と回帰の例）,動画では大統領の身長と支持率に関連はあるのかを扱っていた。まず、二つの変数の間に線形関係があるか散布図を使い調べ、ピアソンのrは02:35の式を使って求める。次に、回帰方程式を求め、従属変数の値の予測と回帰直線を描く。そして、決定係数はピアソンのrの値の二乗で求めることができる。以上の手順で二つのデータの関連を調べる方法が分かった。
@@ -13,13 +13,13 @@
 11,相関と回帰といった統計学の内容について、理解度は 10点満点でどのくらいですか？,10
 12,今回の学習内容について、全体的な理解度は、10点満点でどのくらいですか？,10
 13,date,2022/05/28 23:57:38
-14,3.01 Randomness (4min) (ランダムネス/無作為性),
-15,3.02 Probability (4min) (確率),
-16,"3.03 Sample space, event, probability of event and tree diagram (5min) (標本空間、事象、確率と樹形図)",
-17,3.04 Quantifying probabilities with tree diagram (5min) (樹系図による確率の数値化),
-18,3.05 Basic set-theoretic concepts (5min) (集合論の基本概念),
-19,3.06 Practice with sets (7min) (集合の演習),
-20,3.07 Union (5min) (和集合),
+14,3.01 Randomness (4min) (ランダムネス/無作為性),nan
+15,3.02 Probability (4min) (確率),nan
+16,"3.03 Sample space, event, probability of event and tree diagram (5min) (標本空間、事象、確率と樹形図)",nan
+17,3.04 Quantifying probabilities with tree diagram (5min) (樹系図による確率の数値化),nan
+18,3.05 Basic set-theoretic concepts (5min) (集合論の基本概念),nan
+19,3.06 Practice with sets (7min) (集合の演習),nan
+20,3.07 Union (5min) (和集合),nan
 21,3.08 Joint and marginal probabilities (6min) (同時(結合)確率と周辺確率),03:03~から同時(結合)確率とは複数の事象が同時に起きる確率であり、04:04~から周辺確率とはただ一つだけの事象が起きる確率であることが分かった。また、04:32~から周辺確率が与えられたとき、同時(結合)確率を計算できるわけではないことが分かった。
 22,3.09 Conditional probability (4min) (条件付き確率),00:20~から条件付き確率とは、ある事象が起こるという条件のもとで、別のある事象が起こる確率であることが理解できた。例えば、事象Bが起きたもとで事象Aが起きる確率は、P(A|B)=P(A⋏B)/P(B)である。
 23,3.10 Independence between random events (5min) (ランダムな事象の独立),"独立とは、二つの事象がいずれも起きる確率はそれぞれの確率の掛け算に等しい、つまり一方が起きるか起きないかによって他方の起きる確率が変わらないことが分かった。事象A,Bが独立であるとき、式で表すと、P(A⋏B)=P(A)P(B)である。"
@@ -33,13 +33,13 @@
 31,3.02 Probability (4min) (確率),02:47~から確率は0以上1以下であり、すべての確率の合計は1になることが分かった。また、大数の法則とはたくさんの実験をすればデータの平均は真の平均に近づく法則だと理解できた。
 32,"3.03 Sample space, event, probability of event and tree diagram (5min) (標本空間、事象、確率と樹形図)",樹形図は、一人目のすべてのパターンを縦に書き、二人目以降も同じようにすべてのパターンを書きそれらを枝分かれしていって、すべての事象について視覚的に確認できることが分かった。
 33,3.04 Quantifying probabilities with tree diagram (5min) (樹系図による確率の数値化),樹形図の確率の計算方法はそのパスに沿ったすべての確率の乗算をする必要があることが分かった。樹形図は、全体の場合の数が少ないときには便利だが、全体の場合の数が大きくなると使いにくい点があると分かった。
-34,3.05 Basic set-theoretic concepts (5min) (集合論の基本概念),
-35,3.06 Practice with sets (7min) (集合の演習),
-36,3.07 Union (5min) (和集合),
-37,3.08 Joint and marginal probabilities (6min) (同時(結合)確率と周辺確率),
-38,3.09 Conditional probability (4min) (条件付き確率),
-39,3.10 Independence between random events (5min) (ランダムな事象の独立),
-40,"3.11 More conditional probability, decision trees and Bayes' Law (8min) (条件付き確率、決定木とベイズの定理)",
+34,3.05 Basic set-theoretic concepts (5min) (集合論の基本概念),nan
+35,3.06 Practice with sets (7min) (集合の演習),nan
+36,3.07 Union (5min) (和集合),nan
+37,3.08 Joint and marginal probabilities (6min) (同時(結合)確率と周辺確率),nan
+38,3.09 Conditional probability (4min) (条件付き確率),nan
+39,3.10 Independence between random events (5min) (ランダムな事象の独立),nan
+40,"3.11 More conditional probability, decision trees and Bayes' Law (8min) (条件付き確率、決定木とベイズの定理)",nan
 41,Week 3 の英語について、理解度は 10点満点でどのくらいですか？,10
 42,英語が以前よりも聞きとれるようになった感触はありますか？ 10点満点でどのくらいですか？,10
 43,確率について、理解度は 10点満点でどのくらいですか？,10
